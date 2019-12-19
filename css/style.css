@@ -16,8 +16,7 @@ body {
 }
 
 .nav-link-item:hover,
-.nav-link-item:focus,
-.nav-link-item:active {
+.nav-link-item:focus {
     color: #03a9f4;
     text-transform: uppercase;
 

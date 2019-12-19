@@ -1,0 +1,51 @@
+:root {
+    --Base-font: "PlayfairDisplay", sans-serif;
+
+}
+
+body {
+    font-family: var(--Base-font);
+    font-size: 14px;
+    color: #626262;
+}
+
+.nav-link-list {
+    list-style: none;
+}
+
+.nav-link-item {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #626262;
+    font-size: 14px;
+}
+
+.nav-link-item:hover,
+.nav-link-item:focus,
+.nav-link-item:active {
+    color: #03a9f4;
+    text-transform: uppercase;
+
+
+
+}
+
+.articles-list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+    font-family: "Ubuntu"sans-serif;
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.button-link {
+    font-size: 20px;
+}
